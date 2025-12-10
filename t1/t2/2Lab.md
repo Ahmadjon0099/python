@@ -30,7 +30,7 @@ print (1.23)
 ```
 Результат.
 
-![lab1](https://github.com/Aganyaz62/Python/blob/main/skriny/lab1.png)
+![lab1](https://github.com/Ahmadjon0099/python/blob/main/t1/t2/l1.png)
 
 Выводы.
 
@@ -57,7 +57,7 @@ print(12+4.8-4+4.12)
 ```
 Результат.
 
-![lab2](https://github.com/Aganyaz62/Python/blob/main/skriny/lab2.png)
+![lab2](https://github.com/Ahmadjon0099/python/blob/main/t1/t2/l2.png)
 
 Выводы.
 
@@ -87,7 +87,7 @@ print(one + two)
 ```
 
 Результат.
-![lab3](https://github.com/Aganyaz62/Python/blob/main/skriny/lab3.png)
+![lab3](https://github.com/Ahmadjon0099/python/blob/main/t1/t2/l1.png)
 
 Выводы.
 
@@ -123,7 +123,7 @@ print(str(three))
 ```
 Результат.
 
-![lab4](https://github.com/Aganyaz62/Python/blob/main/skriny/lab4.png)
+![lab4](https://github.com/Ahmadjon0099/python/blob/main/t1/t2/l1.png))
 
 Выводы.
 
@@ -157,7 +157,7 @@ print(one, two, three)
 
 Результат.
 
-![lab5](https://github.com/Aganyaz62/Python/blob/main/skriny/lab5.png)
+![lab5](https://github.com/Ahmadjon0099/python/blob/main/t1/t2/l1.png)
 
 Выводы.
 
@@ -191,7 +191,7 @@ print('Нахождение остатка от деления:', a % b)
 
 Результат.
 
-![lab6](https://github.com/Aganyaz62/Python/blob/main/skriny/lab6.png)
+![lab6](https://github.com/Ahmadjon0099/python/blob/main/t1/t2/l1.png)
 
 
 Выводы.
@@ -222,7 +222,7 @@ print(line * 6)
 
 Результат.
 
-![lab7](https://github.com/Aganyaz62/Python/blob/main/skriny/lab7.png)
+![lab7](https://github.com/Ahmadjon0099/python/blob/main/t1/t2/l1.png)
 
 Выводы.
 
@@ -243,7 +243,7 @@ print(sentence.count('o'))
 
 Результат.
 
-![lab8](https://github.com/Aganyaz62/Python/blob/main/skriny/lab8.png)
+![lab8](https://github.com/Ahmadjon0099/python/blob/main/t1/t2/l1.png)
 
 Выводы.
 
@@ -264,7 +264,7 @@ print('Hello\nWorld')
 
 Результат.
 
-![lab9](https://github.com/Aganyaz62/Python/blob/main/skriny/lab9.png)
+![lab9](https://github.com/Ahmadjon0099/python/blob/main/t1/t2/l1.png)
 
 Выводы.
 
@@ -286,7 +286,7 @@ print(sentence[:5])
 
 Результат.
 
-![lab10](https://github.com/Aganyaz62/Python/blob/main/skriny/lab10.png)
+![lab10](https://github.com/Ahmadjon0099/python/blob/main/t1/t2/l1.png)
 
 Выводы.
 
@@ -311,7 +311,7 @@ print(not True)
 
 Результат.
 
-![cam1](https://github.com/Aganyaz62/Python/blob/main/skriny/cam1.png)
+![cam1](https://github.com/Ahmadjon0099/python/blob/main/t1/t2/l1.png)
 
 Выводы.
 
@@ -330,7 +330,7 @@ print(a, b, c)
 
 Результат.
 
-![cam2](https://github.com/Aganyaz62/Python/blob/main/skriny/cam2.png)
+![cam2](https://github.com/Ahmadjon0099/python/blob/main/t1/t2/l1.png)
 
 Выводы.
 
@@ -351,7 +351,7 @@ print(x)
 
 Результат.
 
-![cam3](https://github.com/Aganyaz62/Python/blob/main/skriny/cam3.png)
+![cam3](https://github.com/Ahmadjon0099/python/blob/main/t1/t2/l1.png)
 
 Выводы.
 
@@ -372,8 +372,7 @@ print(a * 5)
 
 Результат.
 
-![cam4](https://github.com/Aganyaz62/Python/blob/main/skriny/cam4.png)
-
+![cam4](https://github.com/Ahmadjon0099/python/blob/main/t1/t2/l1.png)
 Выводы.
 
 a = "open":  Присваивает строковое значение "open" переменной a.
@@ -397,7 +396,7 @@ print(f"Сегодня {day} {month} {year}. ", end="Всего хорошего
 
 Результат.
 
-![cam5](https://github.com/Aganyaz62/Python/blob/main/skriny/cam5.png)
+![cam5](https://github.com/Ahmadjon0099/python/blob/main/t1/t2/l1.png)
 
 Выводы.
 
@@ -422,7 +421,7 @@ print(s[:5] + ' my ' + s[5:])
 
 Результат.
 
-![cam6](https://github.com/Aganyaz62/Python/blob/main/skriny/cam6.png)
+![cam6](https://github.com/Ahmadjon0099/python/blob/main/t1/t2/l1.png)
 
 Выводы.
 
@@ -446,7 +445,7 @@ print(len(a))
 
 Результат.
 
-![cam7](https://github.com/Aganyaz62/Python/blob/main/skriny/cam7.png)
+![cam7](https://github.com/Ahmadjon0099/python/blob/main/t1/t2/l1.png)
 
 Выводы.
 
@@ -470,7 +469,7 @@ print(s.lower())
 
 Результат.
 
-![cam8](https://github.com/Aganyaz62/Python/blob/main/skriny/cam8.png)
+![cam8](https://github.com/Ahmadjon0099/python/blob/main/t1/t2/l1.png)
 
 Выводы.
 
@@ -500,7 +499,7 @@ else:
 
 Результат.
 
-![cam9](https://github.com/Aganyaz62/Python/blob/main/skriny/cam9.png)
+![cam9](https://github.com/Ahmadjon0099/python/blob/main/t1/t2/l1.png)
 
 Выводы.
 Функция input() используется для запроса двух чисел у пользователя.
@@ -519,7 +518,7 @@ print("Четное" if n % 2 == 0 else "Нечетное")
 
 Результат.
 
-![cam10](https://github.com/Aganyaz62/Python/blob/main/skriny/cam10.png)
+![cam10](https://github.com/Ahmadjon0099/python/blob/main/t1/t2/l1.png)
 
 Выводы.
 
